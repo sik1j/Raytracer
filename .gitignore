@@ -1,0 +1,5 @@
+# Include only source c++ files
+Image.ppm
+Raytracer.*
+.vs
+x64
